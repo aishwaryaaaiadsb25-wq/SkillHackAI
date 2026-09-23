@@ -1,0 +1,19 @@
+python,sql,machine_learning,data_analysis,web_development,communication,career
+1,1,1,1,0,1,Data Scientist
+1,1,1,1,0,0,Data Scientist
+1,1,0,1,0,1,Data Analyst
+1,1,0,1,0,0,Data Analyst
+1,0,1,0,0,1,Machine Learning Engineer
+1,0,1,0,0,0,Machine Learning Engineer
+1,0,0,0,1,1,Software Developer
+1,0,0,0,1,0,Web Developer
+1,1,0,0,0,1,Database Administrator
+0,1,0,1,0,1,Data Analyst
+1,0,1,1,0,1,AI Engineer
+1,0,1,1,0,0,AI Engineer
+1,0,0,0,1,1,Software Developer
+1,1,0,0,0,0,Database Administrator
+0,0,0,0,1,1,Web Developer
+1,1,1,0,0,1,Data Scientist
+1,0,1,0,0,1,Machine Learning Engineer
+1,0,0,0,1,0,Web Developer

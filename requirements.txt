@@ -1,0 +1,8 @@
+streamlit
+pandas
+pypdf
+python-docx
+requests
+beautifulsoup4
+spacy
+scikit-learn
